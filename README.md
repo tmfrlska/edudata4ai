@@ -203,4 +203,4 @@ MIT License
 
 **Seulki Kim** — [tmfrlska85@gmail.com](mailto:tmfrlska85@gmail.com)
 
-GitHub: [https://github.com/tmfrlska/edudata](https://github.com/tmfrlska/edudata)
+GitHub: [https://github.com/tmfrlska/edudata4ai](https://github.com/tmfrlska/edudata4ai)
